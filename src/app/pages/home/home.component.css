@@ -5,19 +5,38 @@
     margin-top: -20px;
     filter: blur(10px);
     filter: brightness(20%);
-    position: absolute;
-}
-.bordao-anuncio{
     position: relative;
-    size: 70px;
-
 }
 
-.bordao{
+.bordao-anuncio{
+    position: absolute;
+    top: 400px;
     color: white;
-    margin: 0 15%;
+    margin-left: 60px;
+    width: 40%;
+    height: 250px;
+    text-align: left;
+
+    font-family: sans-serif;
+}
+.link-bordao{
+    display: flex;
+    width: 162px;
+    height: 33px;
+}
+.bordao{
+    margin: -15px;
 }
 
-.bordao > h1{
-    size: 70px;
+
+#paragrafo{
+    font-size: 30px;
+    -webkit-text-stroke: solid blue 2px;
+  
+}
+#titulo1{
+    font-size: 88px;
+}
+#titulo2{
+    font-size: 75px;
 }

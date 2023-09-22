@@ -1,0 +1,13 @@
+.footer-bar{
+    background-color: #e72929;
+    width: 90%;
+    height: 130px;
+
+    position: absolute;
+    align-items: center;
+    padding: none;
+    display: grid;
+}
+li{
+    margin-top: 20px;
+}
