@@ -8,6 +8,11 @@
     align-items: center;
     padding: none;
 }
+.logo{
+    padding: 5px;
+    margin-left: -80px;
+    
+}
 
 .caixa{
     display: flex;
