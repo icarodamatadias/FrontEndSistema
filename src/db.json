@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "rodas": "4",
+        "placa": "jb db",
+        "modelo": "corola",
+        "marca": "toyota",
+        "descricao": "problema de hidraulica",
+        "estado_conservacao": "semi-novo"
+    },
+    {
+        "id": 2,
+        "rodas": "4",
+        "placa": "bd0",
+        "modelo": "civic",
+        "marca": "honda",
+        "descricao": "problema de hidraulica",
+        "estado_conservacao": "semi-novo"
+    },
+    {
+        "id": 3,
+        "rodas": "4",
+        "placa": "bd0",
+        "modelo": "civic",
+        "marca": "honda",
+        "descricao": "problema de hidraulica",
+        "estado_conservacao": "semi-novo"
+    }
+]

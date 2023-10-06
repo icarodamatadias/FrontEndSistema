@@ -10,7 +10,7 @@
 }
 .logo{
     padding: 5px;
-    margin-left: 0px;
+    margin-left: -40px;
     
 }
 
@@ -33,6 +33,7 @@
 #campo-pesquisa{
     border: none;
     outline: none;
+    margin-left: 10%;
 
 }
 
