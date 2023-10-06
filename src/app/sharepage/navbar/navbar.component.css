@@ -10,7 +10,7 @@
 }
 .logo{
     padding: 5px;
-    margin-left: -80px;
+    margin-left: 0px;
     
 }
 
@@ -36,9 +36,14 @@
 
 }
 
-.menu{
+.menu_icon{
     margin-left: 60px;
     margin-right: 40px;
+}
+#menu_icon{
+    border: none;
+    background: none;
+    padding: 1px;
 }
 
 #botao-buscar{
@@ -46,3 +51,16 @@
     border: none;
     outline: none;
 }
+#menu_list{
+    display: none;
+}
+#menu_list > ul >li{
+    padding: 0px;
+    text-decoration: none;
+}
+
+/*estilização do menu / estruturação*/
+
+div.menu-visible {
+    display: block;
+  }
