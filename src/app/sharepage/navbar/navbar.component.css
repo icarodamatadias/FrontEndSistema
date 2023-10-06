@@ -54,13 +54,6 @@
 #menu_list{
     display: none;
 }
-#menu_list > ul >li{
-    padding: 0px;
-    text-decoration: none;
+
+#menu-btn{
 }
-
-/*estilização do menu / estruturação*/
-
-div.menu-visible {
-    display: block;
-  }

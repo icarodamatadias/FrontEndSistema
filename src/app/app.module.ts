@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './sharepage/navbar/navbar.component';
 import { FooterComponent } from './sharepage/footer/footer.component';
 import { HomeComponent } from './pages/home/home.component';
-import {SidebarModule} from 'ng-sidebar';
 
 @NgModule({
   declarations: [
@@ -17,8 +16,7 @@ import {SidebarModule} from 'ng-sidebar';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    SidebarModule.forRoot()
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
